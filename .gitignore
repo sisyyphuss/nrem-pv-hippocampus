@@ -1,0 +1,12 @@
+# Cached NWB session data (regenerable from DANDI via cache_session*.py) — large, excluded from git
+data/
+data_001695/
+data_000061/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
